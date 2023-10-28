@@ -1,14 +1,14 @@
-# Welcome to the Mailchimp Content Style Guide
+# Welcome to the WebFoundations Content Style Guide
 
-This style guide is primarily for Mailchimp employees, but we hope it’s helpful to other organizations as well.
+This style guide is primarily for WebFoundations employees writing content for, and on bahalf of the company.
 
-If you're looking for the Mailchimp Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
+If you're looking for the WebFoundations Content Style Guide website, visit [styleguide.WebFoundations.com](http://styleguide.WebFoundations.com).
 
-Whether or not you work at Mailchimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
+Whether or not you work at WebFoundations, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
 ## Using the Guide
 
-We've set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
+We've set up an [example Middleman project](https://github.com/WebFoundations/middleman-with-md-submodule-example).
 
 ## Creating a New File
 
