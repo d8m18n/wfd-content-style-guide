@@ -1,11 +1,11 @@
 ---
-title: Writing about Mailchimp
+title: Writing about WebFoundations
 layout: article
 ---
 
 Our name began as a metaphor: a playful chimp who delivers your mail. Today, our company does more than email. And our name means so much more to our customers.
 
-Mailchimp is one word, spelled with a big M and a little c. It used to have a big M and a big C, but the times have changed.
+WebFoundations is one word, spelled with a big W and a big F. 
 
 We never break up our name to create new names whether for a product, service or program, and we never use the word “chimp” alone in communications—unless we’re talking about real chimpanzees. We avoid using any imagery or language that refers to apes, like banana, monkey, or chimptastic.
 
