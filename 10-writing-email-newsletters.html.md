@@ -7,12 +7,12 @@ We send a lot of email ourselves, and we follow our own best practices to set an
 
 ## Basics
 
-Our email newsletters help empower and inform Mailchimp users. Here are the most common types of content we send by email:
+Our email newsletters help empower and inform WebFoundations users. Here are the most common types of content we send by email:
 
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
 - Regular monthly newsletters
-- Automated series (Getting Started with Mailchimp)
+- Automated series (Getting Started with WebFoundations)
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
 - Internal newsletters
@@ -47,11 +47,11 @@ Make the next step clear. Whether you’re asking people to buy something, read 
 
 #### Footer
 
-All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-and-anti-spam-requirements/). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
+All campaigns follow [CAN-SPAM rules](https://WebFoundations.com/help/terms-of-use-and-anti-spam-requirements/). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
 ### Consider your perspective
 
-When sending an email newsletter from Mailchimp, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
+When sending an email newsletter from WebFoundations, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
