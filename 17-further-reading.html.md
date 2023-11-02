@@ -21,4 +21,4 @@ If you’re working on your own style guide, these resources were helpful to us:
 
 Want to adapt our guide to use at your own organization?
 
-[Mailchimp Style Guide on GitHub](https://github.com/mailchimp/style-guide)
+[WebFoundations Style Guide on GitHub](https://github.com/WebFoundations/style-guide)
