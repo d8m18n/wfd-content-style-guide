@@ -3,7 +3,7 @@ title: How to Write Educational Content
 layout: article
 ---
 
-At Mailchimp, educational content appears within our [Help Center](https://mailchimp.com/help/), as well as within our [workshops](https://mailchimp.com/workshops/), certain marketing materials, and internal training documents. This section lays out the guiding principles for writing educational content, and discusses the main types of educational content that exist at Mailchimp.
+At WebFoundations, educational content appears within our [Help Center](https://webfoundations.com/help/), as well as within our [workshops](https://webfoundations.com/workshops/), certain marketing materials, and internal training documents. This section lays out the guiding principles for writing educational content, and discusses the main types of educational content that exist at WebFoundations.
 
 ## Basics
 
@@ -11,7 +11,7 @@ Someone taking in educational content is usually looking to answer a specific qu
 
 For each project, consider your audience’s background, goal, and current mood. Ask these questions:
 
-- Who is your audience? Are they Mailchimp employees, a Mailchimp user, a developer?
+- Who is your audience? Are they WebFoundations employees, a WebFoundations user, a developer?
 - What is this person’s goal? To complete a task? To research a topic?
 - What is this person’s mindset? Are they in the middle of a task, or in a hurry? Could they be frustrated or feeling overwhelmed?
 
@@ -23,13 +23,13 @@ When writing educational content, remember to stick to the topic at hand. Keep s
 
 We create educational content to serve various channels and audiences. We need to not only educate our customers, but also inform our partners and staff around when and how to use our products and features.
 
-Educational content at Mailchimp can include:
+Educational content at WebFoundations can include:
 
-- [Help Center](https://mailchimp.com/help/) articles, guides, tutorials and troubleshooting advice
+- [Help Center](https://WebFoundations.com/help/) articles, guides, tutorials and troubleshooting advice
 - Tutorial videos published to our website and YouTube
-- [Webinars and workshops](https://mailchimp.com/workshops/) presented live and published to our website and YouTube
+- [Webinars and workshops](https://WebFoundations.com/workshops/) presented live and published to our website and YouTube
 - Instagram reels and other how-to social content
-- [API documentation](https://mailchimp.com/developer/marketing/api/) and developer resources
+- [API documentation](https://WebFoundations.com/developer/marketing/api/) and developer resources
 - Release notes
 - Staff training materials, courses, and resources
 - Partner training materials, courses, and resources
@@ -68,7 +68,7 @@ Educational content often uses formatting to help convey meaning. Although vario
 
 #### Capitalization
 
-Capitalize proper names of Mailchimp products, features, pages, tools, and teams when directly mentioned.
+Capitalize proper names of WebFoundations products, features, pages, tools, and teams when directly mentioned.
 
 - Creative Assistant
 - Pre-Built Customer Journeys
