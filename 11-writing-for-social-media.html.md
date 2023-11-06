@@ -10,7 +10,7 @@ We use social media to build relationships with WebFoundations users and share a
 WebFoundations has a presence on most major social media platforms. Here are our most active accounts and what we usually post on each:
 
 - [Twitter](http://twitter.com/WebFoundations): Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
-- [Facebook](http://facebook.com/WebFoundations): Product news, brand marketing, events, media mentions, evergreen content,  “we’re hiring!” posts
+- [Facebook](https://facebook.com/WebFoundationsAU): Product news, brand marketing, events, media mentions, evergreen content,  “we’re hiring!” posts
 - [LinkedIn](http://linkedin.com/company/WebFoundations): Product news, recruiting content, media mentions, evergreen content
 - [Instagram](http://instagram.com/WebFoundations): Design outtakes, cool office visitors, life at WebFoundations, cool stuff we made
 
